@@ -1,0 +1,39 @@
+Box-jgrcqq-0 styled__Dot-fapow9-0 sc-feJyhm jRPqDs
+<div class="Box-jgrcqq-0 Flex-sc-4bijj7-0 knNjyN">
+                            <div width="538" height="569" class="Box-jgrcqq-0 Blbmd"><img src="static/media/5_BeforeAfter.66dc1ec3.jpg" width="505" height="374" class="Box-jgrcqq-0 Image-cz8wc4-0 KAiZJ" />
+                              <div color="#000" height="178" class="Box-jgrcqq-0 Flex-sc-4bijj7-0 eYuRSe">
+                                <div font-family="gilroy" font-size="20" class="Box-jgrcqq-0 Text-sc-1y0d3e1-0 hPpTIJ">Сложное управление</div>
+                              </div>
+                            </div>
+                            <div width="538" height="569" class="Box-jgrcqq-0 kKXyzo"><img src="static/media/6_BeforeAfter.2a33bfdb.jpg" width="505" height="374" class="Box-jgrcqq-0 Image-cz8wc4-0 KAiZJ" />
+                              <div color="#000" height="178" class="Box-jgrcqq-0 Flex-sc-4bijj7-0 ikKGaf">
+                                <div font-family="gilroy" font-size="20" class="Box-jgrcqq-0 Text-sc-1y0d3e1-0 hPpTIJ">Лёгкое и понятное управление
+                                  <br/> одной кнопкой</div>
+                              </div>
+                            </div>
+                          </div>
+<div class="Box-jgrcqq-0 Flex-sc-4bijj7-0 knNjyN">
+                            <div width="538" height="569" class="Box-jgrcqq-0 Blbmd"><img src="static/media/1_BeforeAfter.b57add79.jpg" width="505" height="374" class="Box-jgrcqq-0 Image-cz8wc4-0 KAiZJ" />
+                              <div color="#000" height="178" class="Box-jgrcqq-0 Flex-sc-4bijj7-0 eYuRSe">
+                                <div font-family="gilroy" font-size="20" class="Box-jgrcqq-0 Text-sc-1y0d3e1-0 hPpTIJ">Дорогое и громоздкое кресло</div>
+                              </div>
+                            </div>
+                            <div width="538" height="569" class="Box-jgrcqq-0 kKXyzo"><img src="static/media/2_BeforeAfter.b4ce31fc.jpg" width="505" height="374" class="Box-jgrcqq-0 Image-cz8wc4-0 KAiZJ" />
+                              <div color="#000" height="178" class="Box-jgrcqq-0 Flex-sc-4bijj7-0 ikKGaf">
+                                <div font-family="gilroy" font-size="20" class="Box-jgrcqq-0 Text-sc-1y0d3e1-0 hPpTIJ">Экономичный и компактный массажёр</div>
+                              </div>
+                            </div>
+                          </div>
+<div class="Box-jgrcqq-0 Flex-sc-4bijj7-0 knNjyN">
+                            <div width="538" height="569" class="Box-jgrcqq-0 Blbmd"><img src="static/media/3_BeforeAfter.f69bcd5d.jpg" width="505" height="374" class="Box-jgrcqq-0 Image-cz8wc4-0 KAiZJ" />
+                              <div color="#000" height="178" class="Box-jgrcqq-0 Flex-sc-4bijj7-0 eYuRSe">
+                                <div font-family="gilroy" font-size="20" class="Box-jgrcqq-0 Text-sc-1y0d3e1-0 hPpTIJ">Ограниченный функционал массажёра</div>
+                              </div>
+                            </div>
+                            <div width="538" height="569" class="Box-jgrcqq-0 kKXyzo"><img src="static/media/4_BeforeAfter.ac9151af.jpg" width="505" height="374" class="Box-jgrcqq-0 Image-cz8wc4-0 KAiZJ" />
+                              <div color="#000" height="178" class="Box-jgrcqq-0 Flex-sc-4bijj7-0 ikKGaf">
+                                <div font-family="gilroy" font-size="20" class="Box-jgrcqq-0 Text-sc-1y0d3e1-0 hPpTIJ">Многофункциональный массажёр 5 в 1
+                                  <br/> Шея, спина, поясница, руки и ноги</div>
+                              </div>
+                            </div>
+                          </div>
